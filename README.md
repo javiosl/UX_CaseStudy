@@ -9,7 +9,7 @@ Actualizado: xx/xx/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> EcoSierra Granada 
 
 Descripción: 
 
@@ -19,9 +19,11 @@ Logotipo:
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
+Slogan: De la sierra a tu mesa
+
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * Javier Osakar Lozano - https://github.com/javiosl
+ * Carmen García Muñoz - https://github.com/cargarmu10
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -43,6 +45,14 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+
+Nuestro objetivo es comprender las necesidades y motivaciones de los usuarios de mercados ecológicos. Se realizará un estudio con entrevistas presenciales. Se seleccionarán participantes que frecuenten estos mercados, abarcando consumidores, vendedores y organizadores, con especial atención a la diferencia de edades.
+
+El proceso de investigación se dividirá en cuatro etapas: planificación, reclutamiento, ejecución y análisis. 
+- En la fase de planificación, se diseñarán los guiones de entrevistas y cuestionarios.
+- El reclutamiento se realizará mediante redes sociales y contactos en mercados locales, garantizando el consentimiento informado y la confidencialidad.
+- Durante la ejecución, se llevarán a cabo entrevistas y encuestas, complementadas con visitas a mercados para observar comportamientos y dinámicas.
+- Finalmente, se analizarán los datos recogidos para identificar patrones y oportunidades de mejora en la experiencia de compra ecológica.
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
