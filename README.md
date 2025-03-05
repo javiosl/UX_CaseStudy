@@ -46,16 +46,14 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
-Nuestro objetivo es comprender las necesidades y motivaciones de los usuarios de mercados ecológicos. Se realizará un estudio con entrevistas presenciales. Se seleccionarán participantes que frecuenten estos mercados, abarcando consumidores, vendedores y organizadores, con especial atención a la diferencia de edades.
+Nuestro objetivo es comprender las necesidades y motivaciones de los usuarios de los mercados ecológicos, incorporando la perspectiva de consumidores, vendedores, organizadores y promotores. Se realizará un estudio basado en entrevistas presenciales para capturar de forma directa las experiencias y expectativas de cada grupo, prestando especial atención a la diversidad de edades.
 
-El proceso de investigación se dividirá en cuatro etapas: planificación, reclutamiento, ejecución y análisis. 
-- En la fase de planificación, se diseñarán los guiones de entrevistas y cuestionarios.
-- El reclutamiento se realizará mediante redes sociales y contactos en mercados locales, garantizando el consentimiento informado y la confidencialidad.
-- Durante la ejecución, se llevarán a cabo entrevistas y encuestas, complementadas con visitas a mercados para observar comportamientos y dinámicas.
-- Finalmente, se analizarán los datos recogidos para identificar patrones y oportunidades de mejora en la experiencia de compra ecológica.
+El proceso de investigación se estructurará en cuatro fases:
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+- Planificación: Se diseñarán los guiones de entrevistas y los cuestionarios, adaptándolos para recoger las opiniones específicas de cada perfil.
+- Reclutamiento: Se seleccionarán participantes mediante redes sociales, contactos en mercados locales y asociaciones del sector, asegurando el consentimiento informado y la confidencialidad de los datos.
+- Ejecución: Se llevarán a cabo entrevistas y encuestas, complementadas con visitas a mercados para observar comportamientos y dinámicas en situ.
+- Análisis: Se examinarán los datos recogidos para identificar patrones y oportunidades de mejora en la experiencia de compra y promoción de productos ecológicos.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
