@@ -100,7 +100,7 @@ Se reclutarán al menos tres perfiles:
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-![Método UX](P1/CompetitorAnalisis.png) 
+![Método UX](P1/CompetitorAnalysis.png) 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
