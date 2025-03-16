@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercados Ecológicos)
 
 Grupo: DIU1.JavierCarmen.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 16/03/2025
 
 Proyecto: EcoSierra Granada
 
@@ -105,7 +105,6 @@ Se reclutarán al menos tres perfiles:
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-
 ![Método UX](P1/Persona_1.png) 
 **María Fernández**: Madre de tres hijos y se preocupa especialmente por la salud de uno de ellos, que tiene problemas de salud delicados. Trabaja como enfermera, lo que le hace reflexionar sobre la importancia de una alimentación sana y natural. Siempre busca alternativas que le permitan cuidar a su familia con productos de calidad, libres de transgénicos y respetuosos con el medio ambiente.
 
@@ -115,18 +114,19 @@ Se reclutarán al menos tres perfiles:
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Los dos User Journey son situaciones comunes en la página web de www.valleyvega.org, en las que se intenta buscar un alimento y comprarlo. Ambas situaciones son increiblemente engorrosas y están mal diseñadas, con cantidad de fallos en todos los pasos del proceso.
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
+A nuestra usuaria María Fernández le han recomendado comprar una variedad específica de aceitunas y no las ha podido encontrar mediante la búsqueda que supuestamente indexa todo el contenido de la web.
+![Método UX](P1/User_Journey_Map_1.png)
+A nuestro usuario Antonio Ruiz ha decidido realizar una compra de acelgas para su familia pero debido a un error poco intuitivo no ha sido capaz de conseguirlo y tuvo que pedir ayuda a un familiar más joven.
+![Método UX](P1/User_Journey_Map_2.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- **Enlace al documento**: ![Método UX](P1/Usability-review.xlsl) 
+- **URL y Valoración numérica obtenida**: www.valleyvega.org / www.tienda.valleyvega.org - 60/100
+- **Comentario sobre la revisión**:  Las web principal y tienda son webs diferentes y a la tienda es engorroso acceder, demostrando poca organización y coherencia en la estructura. La tienda contiene una serie de secciones mal organizadas y una búsqueda mal indexada con alimentos disponibles mediante las secciones pero no la búsqueda, algo completamente incomprensible. El checkout es engorroso y el precio mínimo no está bien clarificado. Por lo demás la web presenta un diseño atractivo con una paleta de colores agradable y una tipografía clara y legible.
 
 <br>
 
