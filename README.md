@@ -7,9 +7,7 @@ Grupo: DIUx_AABB.  Curso: 2024/25
 
 Actualizado: xx/xx/2025
 
-Proyecto: 
-
->>> EcoSierra Granada 
+Proyecto: EcoSierra Granada
 
 Descripción: 
 
@@ -25,10 +23,7 @@ Miembros:
  * Javier Osakar Lozano - https://github.com/javiosl
  * Carmen García Muñoz - https://github.com/cargarmu10
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
-
 
 >>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
@@ -39,21 +34,53 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
-Nuestro objetivo es comprender las necesidades y motivaciones de los usuarios de los mercados ecológicos, incorporando la perspectiva de consumidores, vendedores, organizadores y promotores. Se realizará un estudio basado en entrevistas presenciales para capturar de forma directa las experiencias y expectativas de cada grupo, prestando especial atención a la diversidad de edades.
+#### 1. Background
 
-El proceso de investigación se estructurará en cuatro fases:
+Este proyecto se centra en la mejora de la experiencia digital para mercados ecológicos en Granada, España. La investigación busca comprender las necesidades, motivaciones y barreras de los usuarios para diseñar una interfaz que conecte de manera efectiva a consumidores, vendedores, organizadores y promotores publicistas.
 
-- Planificación: Se diseñarán los guiones de entrevistas y los cuestionarios, adaptándolos para recoger las opiniones específicas de cada perfil.
-- Reclutamiento: Se seleccionarán participantes mediante redes sociales, contactos en mercados locales y asociaciones del sector, asegurando el consentimiento informado y la confidencialidad de los datos.
-- Ejecución: Se llevarán a cabo entrevistas y encuestas, complementadas con visitas a mercados para observar comportamientos y dinámicas en situ.
-- Análisis: Se examinarán los datos recogidos para identificar patrones y oportunidades de mejora en la experiencia de compra y promoción de productos ecológicos.
+#### 2. Objectives
+
+Business Objective & KPIs:
+- Incrementar la adopción digital de los mercados ecológicos locales.
+- KPIs: Tasa de participación, satisfacción del usuario, y tasa de conversión en acciones (por ejemplo, registro o compra).
+
+Research Success Criteria:
+
+- Recopilar información cualitativa (entrevistas, observaciones) y cuantitativa (cuestionarios).
+- Crear documentos como perfiles de usuario, mapas de experiencia y recomendaciones de diseño.
+- Fundamentar decisiones de diseño basadas en los insights obtenidos.
+
+#### 3. Research Methods
+
+Se realizará la investigación mediante entrevistas presenciales, observación (etnografía) y contextual inquiry. Esto nos ayuda a connocer las experiencias y expectativas de cada perfil, ayudando a identificar las áreas de mejora en la interfaz.
+
+#### 4. Research Scope & Focus Areas
+
+Question Themes:
+
+Motivaciones y barreras para acudir a mercados ecológicos.
+Impacto de la comunicación y promoción en la decisión de compra.
+
+Design Focus Components: Utility, Learnability, Efficiency, Memorability, Errors, Satisfaction, Persuasiveness.
+
+#### 5. (Personal) Experience in this field
+
+- Como stakeholder: Experiencia participando en iniciativas ecológicas.
+- Como diseñador: Antecedentes en proyectos centrados en el usuario y sostenibilidad.
+- Como observador: Visitas a mercados ecológicos locales.
+- User says: Comentarios recogidos de usuarios y promotores sobre la experiencia actual.
+
+#### 6. Participant Recruiting
+
+Se reclutarán al menos tres perfiles:
+
+- Consumidores: Personas que frecuentan o tienen interés en adquirir productos ecológicos.
+- Vendedores/Organizadores: Encargados de gestionar los mercados y asegurar la calidad de los productos.
+- Promotores (Publicistas): Encargados de impulsar la imagen y alcance de los mercados ecológicos.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
