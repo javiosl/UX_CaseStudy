@@ -95,6 +95,7 @@ Se reclutarán al menos tres perfiles:
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+Con respecto a la competencia, podemos observar que el ecomercado Granada es el peor de todos. Tanto ValleyVega como organicdelivery tienen cosas positivas pero no están a la altura de lo que se espera de un ecomercado, por lo que nuestro competidor mejor es biomarket.
 ![Método UX](CompetitorAnalysis.png) 
 
 ### 1.c Personas
