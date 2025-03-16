@@ -1,9 +1,9 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Mercados Ecológicos) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU1.JavierCarmen.  Curso: 2024/25 
 
 Actualizado: xx/xx/2025
 
@@ -11,11 +11,26 @@ Proyecto: EcoSierra Granada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Se trata de una plataforma digital (web y móvil) que conecta a productores, vendedores y consumidores de mercados ecológicos en Granada. La propuesta se centra en:
+
+- **Envíos Ecoamigables:**  
+  No se usa plástico en los envíos. Se utilizan cajas de madera reciclada. Además, si el usuario devuelve el envase, se le ofrece un pequeño descuento en su siguiente compra.  
+
+- **Transporte Sostenible:**  
+  Todos los medios de transporte (camiones, camionetas y motos) que se utilizan para la distribución son eléctricos, reduciendo así la huella de carbono.
+
+- **Funcionalidades del Marketplace:**  
+  La plataforma permite realizar pedidos en línea con métodos de pago de forma segura. Además, incorpora funcionalidades como el seguimiento de envíos y acceso a reseñas de otros usuarios.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+    <rect width="300" height="100" fill="#ffffff"/>
+    <!-- Ícono: círculo que simboliza la sostenibilidad y lo ecológico -->
+    <circle cx="50" cy="50" r="30" fill="#6DBE45"/>
+    <!-- Texto del logotipo -->
+    <text x="100" y="60" font-family="Arial, sans-serif" font-size="36" fill="#333333">EcoSierra</text>
+</svg>
 
 Slogan: De la sierra a tu mesa
 
@@ -67,14 +82,14 @@ Impacto de la comunicación y promoción en la decisión de compra.
 
 Design Focus Components: Utility, Learnability, Efficiency, Memorability, Errors, Satisfaction, Persuasiveness.
 
-#### 5. (Personal) Experience in this field
+#### 5. (Personal) Experiencia en este campo
 
 - Como stakeholder: Experiencia participando en iniciativas ecológicas.
 - Como diseñador: Antecedentes en proyectos centrados en el usuario y sostenibilidad.
 - Como observador: Visitas a mercados ecológicos locales.
 - User says: Comentarios recogidos de usuarios y promotores sobre la experiencia actual.
 
-#### 6. Participant Recruiting
+#### 6. Reclutamiento de participantes
 
 Se reclutarán al menos tres perfiles:
 
@@ -93,8 +108,11 @@ Se reclutarán al menos tres perfiles:
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+![Método UX](P1/Persona_1.png) 
+**María Fernández**: Madre de tres hijos y se preocupa especialmente por la salud de uno de ellos, que tiene problemas de salud delicados. Trabaja como enfermera, lo que le hace reflexionar sobre la importancia de una alimentación sana y natural. Siempre busca alternativas que le permitan cuidar a su familia con productos de calidad, libres de transgénicos y respetuosos con el medio ambiente.
 
+![Método UX](P1/Persona_2.png) 
+**Antonio Ruiz**: Tras muchos años trabajando en el campo y cultivando su propia huerta, se ha mudado a la ciudad para estar más cerca de sus nietos. Aunque echa de menos el campo, quiere mantener su estilo de vida saludable y ecológico. Su experiencia en agricultura y el conocimiento de cultivo tradicionales lo hacen muy exigente en la calidad de los productos.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 

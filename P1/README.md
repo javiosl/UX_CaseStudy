@@ -6,6 +6,12 @@
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad
 
+### COMPETITIVE ANALISIS:
+-https://organicdeliverycompany.co.uk/?srsltid=AfmBOoqNLrWkjF2AU5e49SyjAEQj2WUmSrbIKRr20yKIAKW5TEEektA0
+-https://www.bio-market.es/
+-https://ecomercadogranada.org/
+-https://valleyvega.org/ 
+
 ### TO-DO:
 
 - Cambiar research plan siguiendo: https://www.nngroup.com/articles/pm-research-plan/
@@ -16,7 +22,7 @@
 1. Competitive Analysis:
 
 - Mercado ecológico con envío online PERO RECICLABLE!: no se usa plástico en los envíos, se usan cajas de madera reciclada, de manera que si se devuelve el envase, se obtiene un pequeño descuento en la siguiente compra.
-- Para comparar competidores: tiempo y precio de envío (en el caso de que haya envío online), multiidiomas, contact form, si hay que registrarse o no (accesibilidad y facilidad), si es gratis o premium, web responsive, "tests de web", carrito de compra, si tienen anunciantes o promotores, si tiene blog o no (para enganchar a la gente), comparación de tipos de productos que se venden (más o menos), que tenga newsletter o no, que haya códigos promocionales o no, códigos de influencers para promocionar
+- Para comparar competidores: tiempo y precio de envío (en el caso de que haya envío online), multiidiomas, contact form, si hay que registrarse o no (accesibilidad y facilidad), si es gratis o premium, web responsive, "tests de web", carrito de compra, si tienen anunciantes o promotores, si tiene blog o no (para enganchar a la gente), comparación de tipos de productos que se venden (más o menos), que haya códigos promocionales o no, códigos de influencers para promocionar
 - A la hora de hablar de las personas podemos o no hablar de la personalidad, pero que intentemos habklar de su pasado, usar elementos visuales, muchas veces se habla de alguien a partir de los 40 años, hablar de antes, del pasado de la gente para contextualizar, la biografía. Hablar del contexto se refiere al contexto actual, a la situación actual de la persona. Pasado y presente. Personalidad, gustos, aficiones, etc.
 - Escenario del journey map es muy concreto, para esa accion concreta, que no es igual a la de la ficha de una persona ficticia.
 
