@@ -100,9 +100,7 @@ Se reclutarán al menos tres perfiles:
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
-
+![Método UX](P1/CompetitorAnalisis.png) 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
