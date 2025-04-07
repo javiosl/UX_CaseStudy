@@ -32,6 +32,8 @@ Logotipo:
     <text x="100" y="60" font-family="Arial, sans-serif" font-size="36" fill="#333333">EcoSierra</text>
 </svg>
 
+<br>
+
 Slogan: De la sierra a tu mesa
 
 Miembros:
