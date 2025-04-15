@@ -81,3 +81,30 @@ Identificamos los siguientes perfiles de usuarios:
 - Usuarios sin acceso a productos ecológicos
 - Usuarios sin tiempo para realizar la compra
 - Usuarios con interés noticias relacionadas con el medio ambiente
+
+
+### PROTOTIPO
+Se han realizado tres bocetos de las páginas correspondientes al inicio, a la tienda y al visualizador de producto. Mediante Figma se ha hehco un diseño responsive, que mostraremos imágenes de los diferentes frames de cada una de ellas.
+
+#### 1920-1590
+![Inicio1](/INICIO 1024 600.png)
+--
+--
+
+
+#### 1590-1200
+--
+--
+--
+
+
+#### 1200-600
+--
+--
+--
+
+
+#### 600-320
+--
+--
+--
