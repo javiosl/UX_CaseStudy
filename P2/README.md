@@ -20,6 +20,8 @@ Todos los medios de transporte (camiones, camionetas y motos) que se utilizan pa
 Funcionalidades del Marketplace:
 La plataforma permite realizar pedidos en línea con métodos de pago de forma segura. Además, incorpora funcionalidades como el seguimiento de envíos y acceso a reseñas de otros usuarios.
 
+![Propuesta de Valor](SCOPE_CANVAS.png)
+
 
 ### TASK ANALYSIS
 
