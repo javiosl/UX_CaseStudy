@@ -1,26 +1,60 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* Malla receptora de información
+![Malla receptora de información](FEEDBACK_CAPTURE_GRID.png)
 * Mapa de empatía
-* Point of View 
+![Mapa de empatía](EMPATHY_MAP.png)
 
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
+### PROPUESTA DE VALOR (Scope Canvas)
+
+Nuestro proyecto, EcoSierra Granada, se trata de una plataforma digital (web y móvil) que conecta a productores, vendedores y consumidores de mercados ecológicos en Granada. La propuesta se centra en:
+
+- Envíos Ecoamigables:
+No se usa plástico en los envíos. Se utilizan cajas de madera reciclada. Además, si el usuario devuelve el envase, se le ofrece un pequeño descuento en su siguiente compra.
+
+- Transporte Sostenible:
+Todos los medios de transporte (camiones, camionetas y motos) que se utilizan para la distribución son eléctricos, reduciendo así la huella de carbono.
+
+Funcionalidades del Marketplace:
+La plataforma permite realizar pedidos en línea con métodos de pago de forma segura. Además, incorpora funcionalidades como el seguimiento de envíos y acceso a reseñas de otros usuarios.
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* User Task Matrix
+
+Hemos definido la siguiente Task Matrix con 15 tareas y 5 roles de usuario. Los roles considerados son: Consumidor, Vendedor, Productor, Repartidor y Administrador. Se considera una puntuación de prioridad del 1 al 5 (5 = más alta), y se incluye la suma total de puntos para cada tarea al final.
+
+| Tarea                                    | Consumidor | Vendedor | Productor | Repartidor | Administrador | Total |
+|------------------------------------------|------------|----------|-----------|------------|---------------|-------|
+| 1. Buscar productos                      | 5          | 2        | 1         | 1          | 2             | 11    |
+| 2. Ver detalles del producto             | 5          | 2        | 1         | 1          | 1             | 10    |
+| 3. Realizar pedido                        | 5          | 3        | 2         | 2          | 2             | 14    |
+| 4. Pagar compra                           | 5          | 2        | 1         | 1          | 1             | 10    |
+| 5. Rastrear envío                         | 5          | 3        | 2         | 5          | 2             | 17    |
+| 6. Calificar/reseñar producto             | 4          | 2        | 1         | 1          | 1             | 9     |
+| 7. Gestionar devolución del envase        | 5          | 2        | 1         | 1          | 2             | 11    |
+| 8. Contactar con servicio al cliente      | 4          | 2        | 1         | 1          | 3             | 11    |
+| 9. Registrar cuenta                       | 5          | 5        | 5         | 5          | 3             | 23    |
+| 10. Editar perfil                         | 4          | 4        | 4         | 4          | 2             | 18    |
+| 11. Gestionar inventario                  | 1          | 5        | 4         | 1          | 3             | 14    |
+| 12. Añadir producto                       | 1          | 5        | 5         | 1          | 3             | 15    |
+| 13. Gestionar promociones                 | 2          | 4        | 3         | 1          | 3             | 13    |
+| 14. Ver historial de pedidos              | 5          | 3        | 1         | 1          | 2             | 12    |
+| 15. Gestionar devoluciones                | 3          | 3        | 2         | 2          | 3             | 13    |
+
+* User/Task flow (Inicio Sesión)
+![User/Task flow](TASK_FLOW.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
-  
+* Sitemap
+![Sitemap](SITEMAP.png)
+
+* Labelling
   | Nombre | Descripción |
   | --- | --- |
   | Home (index.html) | Página de inicio de la web |
@@ -35,88 +69,25 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+Se han realizado tres bocetos de las páginas correspondientes al inicio, a la tienda y al visualizador de producto. Mediante Figma se ha hehco un diseño responsive, que mostraremos imágenes de los diferentes frames de cada una de ellas.
+
+#### 1920x1590
+![Inicio1](INICIO_1920_1590.png)
+
+#### 1590x1200
+![Inicio2](INICIO_1590_1024.png)
+
+#### 1200x600
+![Inicio3](INICIO_1024_600.png)
+
+#### 600x320
+![Inicio4](INICIO_600_320.png)
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta práctica hemos definido la intención de nuestro proyecto, así como la arquitectura de información y el flujo de usuario. Hemos realizado un análisis de tareas y un prototipo inicial para validar la usabilidad y la experiencia del usuario.
+
+Hemos aprendido a usar mejor herramientas como Figma y a trabajar con herramientas gráficas para definir cómo se vería nuestro servicio.
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
 
-APUNTES DE CLASE 19/03/2025:
-
-- Para el scope canvas hay que entrar en archive.com para que podamos ver lo que hay, la web está caida.
-- Arquitectura de informacion no se trata de dar nombre a los archivos sino establecer una jerarquía de la navegación.
-
-APUNTES BOCETO CLASE 2/4/2025:
-- Botón inicio sesión y registrarse añadir
-- Puntos debajo del scroll si es scroll
-- Ruta de seccion de tienda mostrar para que el usuario sepa donde esta
-- Opcion de envio con forma de regalo, cuando se pague, para que haya una opcion de cambiar el embalaje y editar tarjeta de regalo (frase)
-- En foto con slogan poner oferta para que no sea otro boton a la tienda
-- Footer empresas colaboradoras y contacto y mas cosas
-- Pagina de contacto con formulario para correo.
-- Blog con nociticas acerca de la tienda y empresas colaboradoras
-
-### CASE STUDY
-#### Problema de investigación
-¿Es posible hacer una plataforma digital de productos ecológicos?
-
-#### Introducción
-- Equipo: DIU1.JavierCarmen, formado por Javier Osakar Lozano y Carmen García Muñoz.
-
-- Tiempo: Tres meses de trabajo, desde marzo hasta junio de 2025.
-
-Objetivo principal:
-
-- Desarrollar una plataforma digital (web y móvil) llamada "EcoSierra" que facilite el acceso a productos ecológicos de manera sostenible.
-
-Objetivos secundarios:
-
-- Implementar un sistema de envíos ecoamigables utilizando materiales reciclados
-- Establecer una red de transporte sostenible con vehículos eléctricos
-- Crear una interfaz intuitiva que resuelva los problemas de usabilidad detectados en competidores
-
-#### Oportunidad
-- Gran impacto económico debido al creciente mercado de productos ecológicos.
-
-- Posibilidad de mejora con respecto a otras plataformas existentes carentes de usabilidad y sin prácticas sostenibles.
-
-- Establecer un canal de comunicación con los usuarios para que conozcan los beneficios de los productos ecológicos y el cuidado del medio ambiente.
-
-#### Investigación primaria
-
-Identificamos los siguientes perfiles de usuarios:
-
-- Usuarios con buenas hábitos alimenticios
-- Usuarios sin acceso a productos ecológicos
-- Usuarios sin tiempo para realizar la compra
-- Usuarios con interés noticias relacionadas con el medio ambiente
-
-
-### PROTOTIPO
-Se han realizado tres bocetos de las páginas correspondientes al inicio, a la tienda y al visualizador de producto. Mediante Figma se ha hehco un diseño responsive, que mostraremos imágenes de los diferentes frames de cada una de ellas.
-
-#### 1920-1590
-![Inicio1](/INICIO 1024 600.png)
---
---
-
-
-#### 1590-1200
---
---
---
-
-
-#### 1200-600
---
---
---
-
-
-#### 600-320
---
---
---
