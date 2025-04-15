@@ -20,6 +20,18 @@
 
 * Sitemap 
 * Labelling 
+  
+  | Nombre | Descripción |
+  | --- | --- |
+  | Home (index.html) | Página de inicio de la web |
+  | Tienda (store.html) | Página en la que se mostrará nuestra tienda con diferentes tipos de filtros |
+  | Producto (product.html) | Página de producto, se muestrá el producto seleccionado y productos relacionados |
+  | Carrito (cart.html) | Página de carrito, se mostrarán un listado de productos añadidos con su respectiva cantidad y precios |
+  | Inicio/registro (sign.html) | Página de inicio y registro de la web. Dependiendo de que acción se desea hacer se usa un formulario u otro |
+  | Sobre Nosotros (about_us.html) | Página en la que se indica información que se desea dar a conocer a nuestro público |
+  | Contacto (contact.html) | Página de contacto para el público sobre posibles dudas o incidencias a través de un formulario |
+  | Blog (blog.html) | Página de noticias con temática ecológica, donde se muestrán diferentes articulos resumidos |
+  | Articulo (article.html) | Página de artículo donde se muestra la información de manera más extensa |
 
 
 ### Prototipo Lo-FI Wireframe 
