@@ -1,4 +1,9 @@
-## DIU - Practica2, entregables
+## DIU - Practica 2
+
+Grupo: DIU1.JavierCarmen.  Curso: 2024/25
+Miembros:
+ * Javier Osakar Lozano - https://github.com/javiosl
+ * Carmen García Muñoz - https://github.com/cargarmu10
 
 ### Ideación 
 * Malla receptora de información
