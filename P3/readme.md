@@ -32,6 +32,8 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 
 ## PALETA DE COLORES
 
+![Paleta de Colores](PALETA_COLORES.png)
+
 | Muestra | Nombre                | Hex       | Uso / Justificación                                                                                         |
 |:-------:|:----------------------|:----------|:-------------------------------------------------------------------------------------------------------------|
 | 🟩      | **Verde Natural**     | `#78C043` | Color principal, tomado del logo. Evoca naturaleza, frescura y ecología.                                     |
