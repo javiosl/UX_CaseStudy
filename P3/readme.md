@@ -129,5 +129,5 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 
 # 2. LANDING PAGE
 
-Se ha diseñado la siguiente página promocional
+Se ha diseñado la siguiente página promocional, donde los circulos son las ubicaciones en las que se encontraría diferentes imagenes representativas de nuestra empresa, como nuestros productos o los lugares de origen de dichos productos.
 ![Imagen Inspiradora 3](LANDING_PAGE.png)
