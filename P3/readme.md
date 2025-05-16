@@ -43,7 +43,7 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 | ⚪️      | **Crema Suave**       | `#F5F5F2` | Fondo general; proporciona calidez y hace que los productos destaquen sin “cansar” la vista.                 |
 
 
-## ICONOS/SÍMBOLOS Y ESTILO
+## ICONOS/SÍMBOLOS Y ESTILO (HeroIcons)
 
 ### Estilo general
 
