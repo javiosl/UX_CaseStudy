@@ -125,3 +125,9 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 
 #### Transporte eléctrico, packaging sostenible, funcionalidad digital.
 ![Imagen Inspiradora 3](IMG_INSP_3.png)
+
+
+# 2. LANDING PAGE
+
+Se ha diseñado la siguiente página promocional
+![Imagen Inspiradora 3](LANDING_PAGE.png)
