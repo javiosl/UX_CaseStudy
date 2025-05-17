@@ -83,7 +83,7 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 | Carrito de compra  | <img src="https://unpkg.com/feather-icons/dist/icons/shopping-cart.svg" width="24" height="24" />    |
 | Usuario / sesión   | <img src="https://unpkg.com/feather-icons/dist/icons/user.svg" width="24" height="24" />     |
 | Selección de idioma| <img src="https://unpkg.com/feather-icons/dist/icons/globe.svg" width="24" height="24" />    |
-| Buscar             | <img src="https://unpkg.com/feather-icons/dist/icons/search.svg" width="24" height="24" />   |
+| Buscar             | <img src="search.png" width="24" height="24" />   |
 | Teléfono           | <img src="https://unpkg.com/feather-icons/dist/icons/phone.svg" width="24" height="24" />    |
 
 
