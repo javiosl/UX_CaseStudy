@@ -1,32 +1,3 @@
-# DIU - Practica 3, entregables
-
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
-
-## Conclusiones
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
-
-# POR HACER:
-
-(Todo con animaciones y adaptado a móvil usando materialUI plugin)
-
-- ONBOARDING - Javi
-- NAVBAR - Faltan animaciones - Javi
-- HERO IMAGE + CAROUSEL Falta animación carrousel - Javi
-- SEARCH - Faltan animaciones (tienda y productos) - Javi
-- WIZARDS (explain process) - Javi
-- ARTICLE LIST - Faltan animaciones scroll - Javi
-- ITEM DETAILS + ACTIONS - Faltan animaciones - Javi
-- FORM INPUT (Contacto) - Falta - Carmen
-- SHOPPING CART - Falta - Carmen
-- ABOUT (Sobre Nosotros) - Falta - Carmen
-- RESPONSIVE AL FINAL
-- Si da tiempo hacer BLOG
-
 # DIU - Practica 3
 
 Grupo: DIU1.JavierCarmen.  Curso: 2024/25
@@ -85,6 +56,8 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 | Selección de idioma| <img src="https://unpkg.com/feather-icons/dist/icons/globe.svg" width="24" height="24" />    |
 | Buscar             | <img src="search.png" width="24" height="24" />   |
 | Teléfono           | <img src="https://unpkg.com/feather-icons/dist/icons/phone.svg" width="24" height="24" />    |
+| Correo electrónico | <img src="https://unpkg.com/feather-icons/dist/icons/mail.svg" width="24" height="24" />    |
+| Ubicación          | <img src="https://unpkg.com/feather-icons/dist/icons/map-pin.svg" width="24" height="24" />    |
 
 
 ### Iconos de filtro y ordenación (columna lateral)
@@ -129,5 +102,41 @@ Hemos querido elegir un logotipo simple y directo, compuesto con el color verde 
 
 # 2. LANDING PAGE
 
-Se ha diseñado la siguiente página promocional, donde los circulos son las ubicaciones en las que se encontraría diferentes imagenes representativas de nuestra empresa, como nuestros productos o los lugares de origen de dichos productos.
-![Imagen Inspiradora 3](LANDING_PAGE.png)
+Se ha diseñado la siguiente página promocional, conteniendo el logotipo, una breve descripción de la empresa y dos imágenes inspiradoras que expresan la filosofía y valores de la marca. Finalmente se presenta un botón de llamada a la acción que invita al usuario a ayudar a nuestro planeta, con el enlace a la web de la empresa.
+
+![Landing Page](LANDING_PAGE.png)
+
+# 3. MOCKUP: LAYOUT HI-FI
+
+## Patrones de diseño
+
+Se ha realizado un mockup con navegabilidad simulada mediante animaciones de la aplicación para web [Mockup en Figma](https://www.figma.com/design/NFUHxHGGa9HnGKbSnbm49o/Protocolo-TOTAL-RP?m=auto&t=lJTwSbpXoMqKUMaR-6), utilizando los siguientes patrones de diseño:
+
+### Hero Image + Carousel (Página de inicio)
+![Inicio](INICIO.png)
+
+### Menú hamburguesa (SubMenú)
+![Menu](HAMBURGUESA.png)
+
+### Article List (Tienda)
+![Tienda](TIENDA.png)
+
+### Item Details (Detalles del producto)
+![Producto](PRODUCTO.png)
+
+### Form Input (Contacto)
+![Contacto](CONTACTO.png)
+
+### Shopping Cart (Carrito de compra)
+![Carrito](CARRITO.png)
+
+### About (Sobre nosotros)
+![Sobre nosotros](SOBRENOSOTROS.png)
+
+## CONCLUSIONES
+
+Hemos podido aplicar los conocimientos adquiridos en clase a raiz de las actividades del moodboard y el onboarding para un caso práctico real. Hemos utilizado Figma solamente para la navegabilidad, haciendo el moodboard a raiz de ideas propias de lo que deberían ser un logotipo, paleta de colores e iconos. 
+
+Los patrones de diseño utilizados, aunque restringidos a los necesarios para la práctica, nos han permitido explorar la versatilidad de la aplicación y su potencial para una experiencia de usuario fluida y atractiva.
+
+En general la práctica, aunque ha sido laboriosa y tediosa por el desconocimiento de ciertas herramientas en Figma, ha materializado las ideas que teníamos en mente y nos ha permitido ver cómo se pueden aplicar los conceptos de diseño a un caso práctico real.
