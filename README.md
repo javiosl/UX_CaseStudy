@@ -40,14 +40,11 @@ Miembros:
  * Javier Osakar Lozano - https://github.com/javiosl
  * Carmen García Muñoz - https://github.com/cargarmu10
 
------ 
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
+<br>
 
 
 # Proceso de Diseño 
-
-<br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
@@ -134,30 +131,36 @@ A nuestro usuario Antonio Ruiz ha decidido realizar una compra de acelgas para s
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Malla receptora de información
 
+![Malla receptora de información](P2/FEEDBACK_CAPTURE_GRID.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Mapa de empatía
+
+![Mapa de empatía](P2/EMPATHY_MAP.png)
+----
+
+Nuestro proyecto, EcoSierra Granada, se trata de una plataforma digital (web y móvil) que conecta a productores, vendedores y consumidores de mercados ecológicos en Granada. La propuesta se centra en:
+
+- Envíos Ecoamigables:
+No se usa plástico en los envíos. Se utilizan cajas de madera reciclada. Además, si el usuario devuelve el envase, se le ofrece un pequeño descuento en su siguiente compra.
+
+- Transporte Sostenible:
+Todos los medios de transporte (camiones, camionetas y motos) que se utilizan para la distribución son eléctricos, reduciendo así la huella de carbono.
+
+Funcionalidades del Marketplace:
+La plataforma permite realizar pedidos en línea con métodos de pago de forma segura. Además, incorpora funcionalidades como el seguimiento de envíos y acceso a reseñas de otros usuarios.
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![Propuesta de Valor](P2/SCOPE_CANVAS.png)
 
 
 
@@ -165,166 +168,199 @@ A nuestro usuario Antonio Ruiz ha decidido realizar una compra de acelgas para s
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Hemos definido la siguiente Task Matrix con 15 tareas y 5 roles de usuario. Los roles considerados son: Consumidor, Vendedor, Productor, Repartidor y Administrador. Se considera una puntuación de prioridad del 1 al 5 (5 = más alta), y se incluye la suma total de puntos para cada tarea al final.
 
+| Tarea                                    | Consumidor | Vendedor | Productor | Repartidor | Administrador | Total |
+|------------------------------------------|------------|----------|-----------|------------|---------------|-------|
+| 1. Buscar productos                      | 5          | 2        | 1         | 1          | 2             | 11    |
+| 2. Ver detalles del producto             | 5          | 2        | 1         | 1          | 1             | 10    |
+| 3. Realizar pedido                        | 5          | 3        | 2         | 2          | 2             | 14    |
+| 4. Pagar compra                           | 5          | 2        | 1         | 1          | 1             | 10    |
+| 5. Rastrear envío                         | 5          | 3        | 2         | 5          | 2             | 17    |
+| 6. Calificar/reseñar producto             | 4          | 2        | 1         | 1          | 1             | 9     |
+| 7. Gestionar devolución del envase        | 5          | 2        | 1         | 1          | 2             | 11    |
+| 8. Contactar con servicio al cliente      | 4          | 2        | 1         | 1          | 3             | 11    |
+| 9. Registrar cuenta                       | 5          | 5        | 5         | 5          | 3             | 23    |
+| 10. Editar perfil                         | 4          | 4        | 4         | 4          | 2             | 18    |
+| 11. Gestionar inventario                  | 1          | 5        | 4         | 1          | 3             | 14    |
+| 12. Añadir producto                       | 1          | 5        | 5         | 1          | 3             | 15    |
+| 13. Gestionar promociones                 | 2          | 4        | 3         | 1          | 3             | 13    |
+| 14. Ver historial de pedidos              | 5          | 3        | 1         | 1          | 2             | 12    |
+| 15. Gestionar devoluciones                | 3          | 3        | 2         | 2          | 3             | 13    |
+
+User/Task flow del inicio de sesión
+
+![User/Task flow](P2/TASK_FLOW.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Sitemap
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+![Sitemap](P2/SITEMAP.png)
+
+Labelling
+
+  | Nombre | Descripción |
+  | --- | --- |
+  | Home (index.html) | Página de inicio de la web |
+  | Tienda (store.html) | Página en la que se mostrará nuestra tienda con diferentes tipos de filtros |
+  | Producto (product.html) | Página de producto, se muestrá el producto seleccionado y productos relacionados |
+  | Carrito (cart.html) | Página de carrito, se mostrarán un listado de productos añadidos con su respectiva cantidad y precios |
+  | Inicio/registro (sign.html) | Página de inicio y registro de la web. Dependiendo de que acción se desea hacer se usa un formulario u otro |
+  | Sobre Nosotros (about_us.html) | Página en la que se indica información que se desea dar a conocer a nuestro público |
+  | Contacto (contact.html) | Página de contacto para el público sobre posibles dudas o incidencias a través de un formulario |
+  | Blog (blog.html) | Página de noticias con temática ecológica, donde se muestrán diferentes articulos resumidos |
+  | Articulo (article.html) | Página de artículo donde se muestra la información de manera más extensa |
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Se han realizado tres bocetos de las páginas correspondientes al inicio, a la tienda y al visualizador de producto. Mediante Figma se ha hehco un diseño responsive, que mostraremos imágenes de los diferentes frames de cada una de ellas.
+
+#### 1920x1590
+![Inicio1](P2/INICIO_1920_1590.png)
+
+#### 1590x1200
+![Inicio2](P2/INICIO_1590_1024.png)
+
+#### 1200x600
+![Inicio3](P2/INICIO_1024_600.png)
+
+#### 600x320
+![Inicio4](P2/INICIO_600_320.png)
 
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+#### LOGOTIPO
 
+- Imagen .png
+![Logotipo](P3/LOGO.png)
+
+- Vectorial .svg
+![Logotipo](P3/LOGO.svg)
+
+Hemos querido elegir un logotipo simple y directo, compuesto con el color verde como color principal, muy representativo de lo natural y ecológico, y el texto del nombre de la marca. La tipografía es sencilla y clara, para que sea fácil de leer y recordar y sobre todo de usar en plataformas web y móviles.
+
+#### PALETA DE COLORES
+
+![Paleta de Colores](P3/PALETA_COLORES.png)
+
+| Muestra | Nombre                | Hex       | Uso / Justificación                                                                                         |
+|:-------:|:----------------------|:----------|:-------------------------------------------------------------------------------------------------------------|
+| 🟩      | **Verde Natural**     | `#78C043` | Color principal, tomado del logo. Evoca naturaleza, frescura y ecología.                                     |
+| 🟫      | **Madera Reciclada**  | `#8B6F47` | Acento que recuerda las cajas de madera reciclada. Aporta calidez y refuerza el concepto “eco‐packaging”.     |
+| 🟦      | **Azul Claro**        | `#66B2E8` | Color secundario para llamadas a la acción o elementos de tracking; ofrece sensación de confianza y tecnología. |
+| ⚫️      | **Gris Carbón**       | `#333333` | Para texto y elementos UI; alto contraste y buena legibilidad sobre fondos claros.                          |
+| ⚪️      | **Crema Suave**       | `#F5F5F2` | Fondo general; proporciona calidez y hace que los productos destaquen sin “cansar” la vista.       
+
+#### ICONOS/SÍMBOLOS Y ESTILO (HeroIcons)
+
+Estilo general
+
+| Propiedad        | Valor                                  |
+|:-----------------|:---------------------------------------|
+| **Familia**      | Outline / Stroke                       |
+| **Grosor**       | 2 px                                   |
+| **Line cap/join**| Round                                  |
+| **Tamaño base**  | 24 × 24 px (32 × 32 px en heroicons)   |
+| **Color normal** | `#333333` (Gris Carbón)               |
+| **Color hover**  | `#78C043` (Verde Natural)             |
+
+---
+
+#### Iconos de navegación y acciones globales
+
+| Uso                | Icono                                                                                                                                                                                         |
+|:-------------------|:----------------------------------------------------------------------------------------------------|
+| Menú hamburguesa   | <img src="https://unpkg.com/feather-icons/dist/icons/menu.svg" width="24" height="24" /> |
+| Carrito de compra  | <img src="https://unpkg.com/feather-icons/dist/icons/shopping-cart.svg" width="24" height="24" />    |
+| Usuario / sesión   | <img src="https://unpkg.com/feather-icons/dist/icons/user.svg" width="24" height="24" />     |
+| Selección de idioma| <img src="https://unpkg.com/feather-icons/dist/icons/globe.svg" width="24" height="24" />    |
+| Buscar             | <img src="search.png" width="24" height="24" />   |
+| Teléfono           | <img src="https://unpkg.com/feather-icons/dist/icons/phone.svg" width="24" height="24" />    |
+| Correo electrónico | <img src="https://unpkg.com/feather-icons/dist/icons/mail.svg" width="24" height="24" />    |
+| Ubicación          | <img src="https://unpkg.com/feather-icons/dist/icons/map-pin.svg" width="24" height="24" />    |
+
+
+#### Iconos de filtro y ordenación (columna lateral)
+
+| Filtro / Orden        | Icono                                                                                           | Estado activo     |
+|:----------------------|:------------------------------------------------------------------------------------------------|:------------------|
+| Desplegable           | <img src="https://unpkg.com/feather-icons/dist/icons/chevron-down.svg" width="24" height="24" /> | Rotar 180° (▲)    |
+| Más vendidos          | <img src="https://unpkg.com/feather-icons/dist/icons/trending-up.svg" width="24" height="24" />  | Color `#78C043`   |
+|
+
+
+#### Iconos de producto y carrito (detalle de producto)
+
+| Acción            | Icono                                                                                             |
+|:------------------|:--------------------------------------------------------------------------------------------------|
+| Añadir al carrito | <img src="https://unpkg.com/feather-icons/dist/icons/plus-circle.svg" width="24" height="24" />     |
+| Quitar (-)        | <img src="https://unpkg.com/feather-icons/dist/icons/minus-circle.svg" width="24" height="24" />    |
+| Envío             | <img src="https://unpkg.com/feather-icons/dist/icons/truck.svg" width="24" height="24" />     |
+| Devolver envase   | <img src="https://unpkg.com/feather-icons/dist/icons/refresh-cw.svg" width="24" height="24" />      |
+
+
+#### Iconos de estado y feedback
+
+| Tipo                | Icono                                                                                           | Color              |
+|:--------------------|:-----------------------------------------------------------------------------------------------|:-------------------|
+| Éxito / Descuento   | <img src="https://unpkg.com/feather-icons/dist/icons/check-circle.svg" width="24" height="24" /> | `#78C043` (verde)  |
+| Alerta / Error      | <img src="https://unpkg.com/feather-icons/dist/icons/alert-circle.svg" width="24" height="24" /> | `#E94E4E` (rojo)   |
+| Información extra   | <img src="https://unpkg.com/feather-icons/dist/icons/info.svg" width="24" height="24" />         | `#66B2E8` (azul)   |
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Se ha diseñado la siguiente página promocional, conteniendo el logotipo, una breve descripción de la empresa y dos imágenes inspiradoras que expresan la filosofía y valores de la marca. Finalmente se presenta un botón de llamada a la acción que invita al usuario a ayudar a nuestro planeta, con el enlace a la web de la empresa.
+
+![Landing Page](P3/LANDING_PAGE.png)
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+, utilizando los siguientes patrones de diseño:
+
+### Hero Image + Carousel (Página de inicio)
+![Inicio](P3/INICIO.png)
+
+### Menú hamburguesa (SubMenú)
+![Menu](P3/HAMBURGUESA.png)
+
+### Article List (Tienda)
+![Tienda](P3/TIENDA.png)
+
+### Item Details (Detalles del producto)
+![Producto](P3/PRODUCTO.png)
+
+### Form Input (Contacto)
+![Contacto](P3/CONTACTO.png)
+
+### Shopping Cart (Carrito de compra)
+![Carrito](P3/CARRITO.png)
+
+### About (Sobre nosotros)
+![Sobre nosotros](P3/SOBRENOSOTROS.png)
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
-
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
-<br>
-
-## Paso 4. Pruebas de Evaluación 
-
-### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
-
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
-
-### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
-
-### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
-
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
-
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
-
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
-### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
-
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
-
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
-
+Se ha realizado un mockup con navegabilidad simulada mediante animaciones de la aplicación para web [Mockup en Figma](https://www.figma.com/design/NFUHxHGGa9HnGKbSnbm49o/Protocolo-TOTAL-RP?m=auto&t=lJTwSbpXoMqKUMaR-6)
 
 
 
