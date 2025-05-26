@@ -4,6 +4,14 @@
 >>> Se publicará la lista de grupos y los respectivos GitHub
 
 - Users. Elección y características de los usuarios reclutados
+
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+|1|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+|2|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+|2|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
