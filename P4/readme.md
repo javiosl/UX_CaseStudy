@@ -43,8 +43,8 @@ Algunos aspectos mejores del caso B que con respecto al caso A sería una mejor 
 
 ## EYETRACKING
 Se han creado dos test en la plataforma de Gazerecorder, en ambos se han añadido las mismas template para poder compararlas. Estas son: inicio, tienda, producto, carrito, sobre nosotros y contacto.
-**Enlace al test caso A**: ![Caso A](https://app.gazerecorder.com/Study/Test?StudyID=f027e6cec345a44bb37466b8c2397e6c&lang=es&RespondentID=null)
-**Enlace al test caso B**: ![Caso B](https://app.gazerecorder.com/Study/Test?StudyID=ef4248359652a88fa04db8e9bb470c07&lang=es&RespondentID=null)
+**Enlace al test caso A**: https://app.gazerecorder.com/Study/Test?StudyID=f027e6cec345a44bb37466b8c2397e6c&lang=es&RespondentID=null
+**Enlace al test caso B**: (https://app.gazerecorder.com/Study/Test?StudyID=ef4248359652a88fa04db8e9bb470c07&lang=es&RespondentID=null
 
 Tras comprobarlos podemos saber que ...
 
