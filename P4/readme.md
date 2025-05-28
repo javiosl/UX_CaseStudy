@@ -13,13 +13,13 @@ Vamos a tener una muestra de 8 usuarios a las que se aplicarán las diferentes p
 |---|---|---|---|---|---|---|---|
 |#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
 |1|23|Estudiante|Avanzado||A|||
-|2|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|3|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|4|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|5|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|6|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|7|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|8|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+|2|Sexo/edad|Ocupación|Experiencia internet|Plataforma|A|TEST|SUS score|
+|3|Sexo/edad|Ocupación|Experiencia internet|Plataforma|A|TEST|SUS score|
+|4|Sexo/edad|Ocupación|Experiencia internet|Plataforma|A|TEST|SUS score|
+|5|Sexo/edad|Ocupación|Experiencia internet|Plataforma|B|TEST|SUS score|
+|6|Sexo/edad|Ocupación|Experiencia internet|Plataforma|B|TEST|SUS score|
+|7|Sexo/edad|Ocupación|Experiencia internet|Plataforma|B|TEST|SUS score|
+|8|Sexo/edad|Ocupación|Experiencia internet|Plataforma|B|TEST|SUS score|
 
 
 # 2. A/B TESTING
@@ -38,13 +38,13 @@ Ciertos aspectos del excel no han sido tenidos en cuenta como los errores, ayuda
 Algunos aspectos mejores del caso A que con respecto al caso B sería una mejor página de inico con respecto a distribución, una mejor estructura de página y navegación, una mayor función de búsqueda con filtros y variedad de buscado y una mayor cantidad de formas de contacto con la empresa.
 Algunos aspectos mejores del caso B que con respecto al caso A sería una mejor distribución de botones de acciones como el de volver atrás, una mejor calidad de formularios en el carrito.
 
-**Enlace al documento caso A**: ![Método UX](Usability-review-casoA.xlsl) 
-**Enlace al documento caso B**: ![Método UX](Usability-review-casoB.xlsl) 
+**Enlace al documento caso A**: ![Caso A](Usability-review-casoA.xlsx) 
+**Enlace al documento caso B**: ![Caso B](Usability-review-casoB.xlsx) 
 
 ## EYETRACKING
 Se han creado dos test en la plataforma de Gazerecorder, en ambos se han añadido las mismas template para poder compararlas. Estas son: inicio, tienda, producto, carrito, sobre nosotros y contacto.
-**Enlace al test caso A**: ![Método UX](https://app.gazerecorder.com/Study/Test?StudyID=f027e6cec345a44bb37466b8c2397e6c&lang=es&RespondentID=null)
-**Enlace al test caso B**: ![Método UX](https://app.gazerecorder.com/Study/Test?StudyID=ef4248359652a88fa04db8e9bb470c07&lang=es&RespondentID=null)
+**Enlace al test caso A**: ![Caso A](https://app.gazerecorder.com/Study/Test?StudyID=f027e6cec345a44bb37466b8c2397e6c&lang=es&RespondentID=null)
+**Enlace al test caso B**: ![Caso B](https://app.gazerecorder.com/Study/Test?StudyID=ef4248359652a88fa04db8e9bb470c07&lang=es&RespondentID=null)
 
 Tras comprobarlos podemos saber que ...
 
