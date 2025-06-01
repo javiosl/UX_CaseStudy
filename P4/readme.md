@@ -159,4 +159,6 @@ El Caso B presenta desafíos particulares para usuarios con experiencia básica 
 
 # 4. CONCLUSIONES
 
+
+
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica

@@ -26,13 +26,6 @@ Se trata de una plataforma web para que los agricultores locales vendan sus prod
 
 En este documento se presenta el informe de usabilidad del proyecto AgroRed, que tiene como objetivo evaluar la experiencia de usuario y la facilidad de uso de la plataforma web diseñada para conectar a agricultores locales con consumidores finales.
 
-Alguno de los problemas detectados incluyen:
-
-* Dificultades en la navegación del sitio web, especialmente la distribución en la página de inicio.
-* La estructura de la página y su navegabilidad.
-* Falta de filtro de búsqueda en la sección de productos (solo se puede buscar por nombre).
-* Solo hay una manera de contactar con la empresa que es con el formulario de contacto. Faltan opciones como correo electrónico, teléfono o redes sociales.
-
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
@@ -115,9 +108,14 @@ Adjuntamos las fotos de los resultados del test:
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+Alguno de los problemas detectados incluyen:
 
-
+* Dificultades en la navegación del sitio web, especialmente la distribución en la página de inicio.
+* La estructura de la página y su navegabilidad.
+* Falta de filtro de búsqueda en la sección de productos (solo se puede buscar por nombre).
+* Solo hay una manera de contactar con la empresa que es con el formulario de contacto. Faltan opciones como correo electrónico, teléfono o redes sociales.
+* Algunas faltas ortográficas.
+* Algunas inconsistencias en el diseño de botones.
 
 #### Valoración 
 
