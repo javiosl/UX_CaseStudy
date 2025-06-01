@@ -98,6 +98,16 @@ Adjuntamos las fotos de los resultados del test:
 ![CASO B](B_EYETRACKING_CESTA.png)
 ![CASO B](B_EYETRACKING_ABOUTUS.png)
 
+Las cuestiones a valorar serán: eficiencia en la fijación de elementos importantes, distribución de la atención. Utilizamos estas méticas porque nos ayudan a confirmar que la interfaz lleva la atención del usuario a elementos importantes pero que también permiten la visualización del resto de la página.
+
+#### Valoración EYETRACKING EN %
+
+| INICIO | PRODUCTO | CARRITO | TIENDA | ABOUT US | TOTAL |
+|----|----|----|----|----|----|
+| 82% | 85% | 88% | 80% | 75% | 82% |
+
+Aunque mayoritariamente sea correcta la puntuación a grandes rasgos son un diseño visual más atractivo, una mejor atención sobre los filtros de búsqueda, algo de visualización sobre el footer y sobre la navegación lateral.
+
 ## 4 CONCLUSIONES 
 
 
