@@ -93,9 +93,17 @@ Para calcular el NPS, utilizamos la pregunta 1 del cuestionario SUS como indicad
 - Detractores: 1 usuario (25%) - Usuario 7
 - **NPS Caso B: -25%**
 
-(resultado de eyetracking)
+Se ha creado un test en la plataforma de Gazerecorder, se han añadido las template de: inicio, tienda, producto, carrito y sobre nosotros.
 
+**Enlace al test caso B**: https://app.gazerecorder.com/Study/Test?StudyID=ef4248359652a88fa04db8e9bb470c07&lang=es&RespondentID=null
 
+Adjuntamos las fotos de los resultados del test:
+
+![CASO B](B_EYETRACKING_INICIO.png)
+![CASO B](B_EYETRACKING_TIENDA.png)
+![CASO B](B_EYETRACKING_PRODUCTO.png)
+![CASO B](B_EYETRACKING_CESTA.png)
+![CASO B](B_EYETRACKING_ABOUTUS.png)
 
 ## 4 CONCLUSIONES 
 
