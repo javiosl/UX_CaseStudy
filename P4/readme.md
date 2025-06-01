@@ -16,14 +16,14 @@ Vamos a tener una muestra de 8 usuarios a las que se aplicarán las diferentes p
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 |#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
-|1|M/26|Estudiante universitario|Avanzado|PC|A|TEST|SUS score|
-|2|F/23|Estudiante universitario|Avanzado|PC|B|TEST|SUS score|
-|3|F/28|Diseñadora gráfica|Avanzado|Móvil/Tablet|A|TEST|SUS score|
-|4|M/35|Ingeniero|Avanzado|PC/Móvil|A|TEST|SUS score|
-|5|F/42|Profesora|Intermedio|PC|A|TEST|SUS score|
-|6|M/19|Estudiante universitario|Avanzado|Móvil|B|TEST|SUS score|
-|7|F/55|Administrativa|Básico|PC|B|TEST|SUS score|
-|8|M/31|Marketing digital|Avanzado|Móvil/PC|B|TEST|SUS score|
+|1|M/26|Estudiante universitario|Avanzado|PC|A|TEST|80|
+|2|F/23|Estudiante universitario|Avanzado|PC|A|TEST|77.5|
+|3|F/28|Diseñadora gráfica|Avanzado|Móvil/Tablet|A|TEST|92.5|
+|4|M/35|Ingeniero|Avanzado|PC/Móvil|A|TEST|82.5|
+|5|F/42|Profesora|Intermedio|PC|B|TEST|60|
+|6|M/19|Estudiante universitario|Avanzado|Móvil|B|TEST|75|
+|7|F/55|Administrativa|Básico|PC|B|TEST|30|
+|8|M/31|Marketing digital|Avanzado|Móvil/PC|B|TEST|77.5|
 
 
 # 2. A/B TESTING
