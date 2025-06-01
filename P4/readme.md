@@ -48,19 +48,29 @@ Algunos aspectos mejores del caso A que con respecto al caso B sería una mejor 
 
 Algunos aspectos mejores del caso B que con respecto al caso A sería una mejor distribución de botones de acciones como el de volver atrás, una mejor calidad de formularios en el carrito.
 
-**Enlace al documento caso A**: ![Caso A](Usability-review-casoA.xlsx)
+
+**Enlace al documento caso A**: [Caso A](Usability-review-casoA.xlsx)
+
  
-**Enlace al documento caso B**: ![Caso B](Usability-review-casoB.xlsx) 
+**Enlace al documento caso B**: [Caso B](Usability-review-casoB.xlsx) 
 
 ## EYETRACKING
 
-Se han creado dos test en la plataforma de Gazerecorder, en ambos se han añadido las mismas template para poder compararlas. Estas son: inicio, tienda, producto, carrito, sobre nosotros y contacto.
+Se han creado dos test en la plataforma de Gazerecorder, en ambos se han añadido las mismas template para poder compararlas. Estas son: inicio, tienda, producto, carrito y sobre nosotros.
+
 
 **Enlace al test caso A**: https://app.gazerecorder.com/Study/Test?StudyID=f027e6cec345a44bb37466b8c2397e6c&lang=es&RespondentID=null
 
+
 **Enlace al test caso B**: https://app.gazerecorder.com/Study/Test?StudyID=ef4248359652a88fa04db8e9bb470c07&lang=es&RespondentID=null
 
-Tras comprobarlos podemos saber que ...
+Adjuntamos las fotos comparativas de cada uno
+![CASO A](A_EYETRACKING_INICIO.png) ![CASO B](B_EYETRACKING_INICIO.png)
+![CASO A](A_EYETRACKING_TIENDA.png) ![CASO B](B_EYETRACKING_TIENDA.png)
+![CASO A](A_EYETRACKING_PRODUCTO.png) ![CASO B](B_EYETRACKING_PRODUCTO.png)
+![CASO A](A_EYETRACKING_SHOPPING.png) ![CASO B](B_EYETRACKING_CESTA.png)
+![CASO A](A_EYETRACKING_ABOUTUS.png) ![CASO B](B_EYETRACKING_ABOUTUS.png)
+
 
 ## CUESTIONARIO SUS
 
