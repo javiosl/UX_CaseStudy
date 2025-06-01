@@ -153,12 +153,14 @@ El Caso A demuestra una usabilidad significativamente mejor, especialmente notab
 
 El Caso B presenta desafíos particulares para usuarios con experiencia básica (Usuario 7), mientras que el Caso A mantiene una experiencia más consistente en diferentes niveles de experiencia técnica.
 
-
 # 3. INFORME PARA CASO B
 
+Archivo del informe: [Usability-Report-B.md](Usability-Report-B.md)
 
 # 4. CONCLUSIONES
 
+Como valoración final del equipo sobre la realización de la práctica, podemos concluir que:
+- La práctica ha permitido aplicar conceptos teóricos de usabilidad y A/B testing en un entorno práctico, lo que ha enriquecido nuestra comprensión del tema.
+- La comparación entre los dos casos ha evidenciado la importancia de la usabilidad en el diseño de interfaces, destacando cómo pequeñas variaciones pueden impactar significativamente en la experiencia del usuario.
+- La realización de pruebas con usuarios reales ha proporcionado insights valiosos que no se habrían obtenido solo con revisiones teóricas o checklist.
 
-
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
