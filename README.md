@@ -500,7 +500,7 @@ Adjuntamos las fotos comparativas de cada uno
 
 ![CASO A](P4/A_EYETRACKING_INICIO.png) ![CASO B](P4/B_EYETRACKING_INICIO.png)
 ![CASO A](P4/A_EYETRACKING_TIENDA.png) ![CASO B](P4/B_EYETRACKING_TIENDA.png)
-![CASO A](P4/A_EYETRACKING_PRODUCTO.png) ![CASO B]P4/(B_EYETRACKING_PRODUCTO.png)
+![CASO A](P4/A_EYETRACKING_PRODUCTO.png) ![CASO B](P4/B_EYETRACKING_PRODUCTO.png)
 ![CASO A](P4/A_EYETRACKING_SHOPPING.png) ![CASO B](P4/B_EYETRACKING_CESTA.png)
 ![CASO A](P4/A_EYETRACKING_ABOUTUS.png) ![CASO B](P4/B_EYETRACKING_ABOUTUS.png)
 
@@ -509,7 +509,7 @@ Adjuntamos las fotos comparativas de cada uno
 ![Método UX](img/usability-report.png) 
 -----
 
-Archivo del informe: [Usability-Report-B.md](Usability-Report-B.md)
+Archivo del informe: [Usability-Report-B.md](P4/Usability-Report-B.md)
 
 
 <br>
