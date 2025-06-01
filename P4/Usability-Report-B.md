@@ -108,13 +108,10 @@ Las cuestiones a valorar serán: eficiencia en la fijación de elementos importa
 
 Aunque mayoritariamente sea correcta la puntuación a grandes rasgos son un diseño visual más atractivo, una mejor atención sobre los filtros de búsqueda, algo de visualización sobre el footer y sobre la navegación lateral.
 
-## 4 CONCLUSIONES 
+## 4 CONCLUSIONES
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+Con las pruebas de usabilidad realizadas, se ha podido identificar una serie de problemas y áreas de mejora en la plataforma AgroRed. 
+Estos problemas afectan tanto a la navegación como a la estructura del sitio web, lo que puede dificultar la experiencia del usuario y limitar la efectividad de la plataforma para cumplir su objetivo de conectar a agricultores locales con consumidores finales.
 
 #### Incidencias
 
@@ -129,20 +126,12 @@ Alguno de los problemas detectados incluyen:
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
-
-
-#### Recomendaciones y propuesta de mejoras: 
-
-* (Puntos de mejora)
-
-
-
-
-
-
+* La plataforma es intuitiva y fácil de usar en general.
+* La plataforma cumple con su objetivo de conectar a agricultores locales con consumidores finales.
+* La plataforma es accesible desde diferentes dispositivos, incluyendo móviles y tablets.
+* La plataforma tiene un diseño atractivo y moderno.
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+* Este tipo de pruebas son muy útiles para detectar problemas de usabilidad que pueden no ser evidentes en una revisión inicial del sitio web.
+* Las pruebas de usabilidad permiten obtener una visión más objetiva de la experiencia del usuario y ayudan a identificar áreas de mejora que pueden no ser evidentes para los desarrolladores o diseñadores.

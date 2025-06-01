@@ -163,4 +163,5 @@ Como valoración final del equipo sobre la realización de la práctica, podemos
 - La práctica ha permitido aplicar conceptos teóricos de usabilidad y A/B testing en un entorno práctico, lo que ha enriquecido nuestra comprensión del tema.
 - La comparación entre los dos casos ha evidenciado la importancia de la usabilidad en el diseño de interfaces, destacando cómo pequeñas variaciones pueden impactar significativamente en la experiencia del usuario.
 - La realización de pruebas con usuarios reales ha proporcionado insights valiosos que no se habrían obtenido solo con revisiones teóricas o checklist.
+- El resultado final del Caso A frente al B ha demostrado que una mejor usabilidad no solo mejora la satisfacción del usuario, sino que también puede influir en la percepción general de la plataforma y su efectividad en cumplir con los objetivos del proyecto.
 
